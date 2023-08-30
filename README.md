@@ -1,6 +1,6 @@
 -  Hi, I’m Shayan Zamani
 -  I’m interested in Data Science and Machine Learning
--  I’m currently learning ML
+-  I’m currently Working as ML Engineer
 -  You can reach me on Instagram(ID: shayantimes) or via Email(shayanzi79@gmail.com)
 
 <!---
