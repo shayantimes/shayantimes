@@ -1,6 +1,5 @@
 -  Hi, I’m Shayan Zamani
--  I’m currently Working as Data Analyst
--  I'll do anything that i need with Python, R, Django and WordPress
+-  I’m currently Working as Data Analyst and ML Engineer
 -  You can reach me on Instagram and Twitter(ID: shayantimes) or via Email(shayanzi79@gmail.com) or via Linkedin(www.linkedin.com/in/shayan-zamani-ab96bb27b)
 
 <!---
