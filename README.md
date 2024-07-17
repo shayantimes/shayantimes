@@ -1,6 +1,6 @@
 -  Hi, I’m Shayan Zamani
--  I’m currently Working as Data Analyst and ML Engineer
--  You can reach me on Instagram and Twitter(ID: shayantimes) or via Email(shayanzi79@gmail.com) or via Linkedin(www.linkedin.com/in/shayan-zamani-ab96bb27b)
+-  I’m currently Working as ML Engineer
+-  You can reach me via Email(shayanzi79@gmail.com) or via Linkedin(www.linkedin.com/in/shayan-zamani-ab96bb27b)
 
 <!---
 shayantimes/shayantimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
