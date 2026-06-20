@@ -35,7 +35,7 @@ That combination changes how I see data: not just numbers to summarize, but a sy
 - **Statistics & Analysis** — Hypothesis testing, regression, time series analysis, KPI modeling
 - **Data Engineering** — Python pipelines, data contracts, canonical schemas, Pydantic validation
 - **SEO** — Technical audits, keyword strategy, organic performance
-- **SEA / Paid Ads** — Google Ads, Meta Ads, bid strategy, ROAS
+- **SEA / Paid Ads** — Run and Optimze Ads Campaign, Google Ads, Meta Ads, bid strategy, ROAS
 - **Python Development** — Clean, testable, production-like code
 
 ---
